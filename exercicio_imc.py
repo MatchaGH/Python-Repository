@@ -1,4 +1,4 @@
-nome = "Matheus"
+nome = "Juca"
 altura = 1.75
 peso = 110
 imc = peso / (altura * altura)
