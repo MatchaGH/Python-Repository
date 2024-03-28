@@ -1,6 +1,6 @@
-nome = "Matheus"
-sobrenome = "Cunha Chagas"
-idade = 30
+nome = "Paulinho"
+sobrenome = "Daviola"
+idade = 60
 ano_nascimento = 2024 - idade
 maior_de_idade = idade >= 18
 altura_metros = 1.75
